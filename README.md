@@ -11,7 +11,7 @@ Data
 The data used in this project includes information about electric power plants, such as the number of generator units and the quantities of different fossil fuels used. It also includes the Air Quality Index (AQI) for different locations across the United States.
 
 Links:
-Tablea https://public.tableau.com/views/AQIfromelectricpowerplantsinUS/Sheet6?:language=en-US&:display_count=n&:origin=viz_share_link
 
+Tablea https://public.tableau.com/views/AQIfromelectricpowerplantsinUS/Sheet6?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Colab Notebook https://colab.research.google.com/drive/1ImUGi8sTJO65hUALWenO_aewTVI0SHwF?usp=sharing
